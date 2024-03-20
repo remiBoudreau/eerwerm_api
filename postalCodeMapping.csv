@@ -1,0 +1,160 @@
+PostalCode,Borough,Neighbourhood
+M3A,North York,Parkwoods
+M4A,North York,Victoria Village
+M5A,Downtown Toronto,Regent Park
+M5A,Downtown Toronto,Harbourfront
+M6A,North York,Lawrence Manor
+M6A,North York,Lawrence Heights
+M9A,Etobicoke,Islington Avenue
+M1B,Scarborough,Malvern
+M1B,Scarborough,Rouge
+M3B,North York,Don Mills
+M4B,East York,Parkview Hill
+M4B,East York,Woodbine Gardens
+M5B,Downtown Toronto,Garden District
+M5B,Downtown Toronto,Ryerson
+M9B,Etobicoke,West Deane Park
+M9B,Etobicoke,Princess Gardens
+M9B,Etobicoke,Martin Grove
+M9B,Etobicoke,Islington
+M1C,Scarborough,Rouge Hill
+M1C,Scarborough,Port Union
+M1C,Scarborough,Highland Creek
+M3C,North York,Don Mills
+M3C,North York,Flemingdon Park
+M4C,East York,Woodbine Heights
+M5C,Downtown Toronto,St. James Town
+M6C,York,Humewood-Cedarvale
+M9C,Etobicoke,Markland Wood
+M1E,Scarborough,Guildwood
+M1E,Scarborough,Morningside
+M1E,Scarborough,West Hill
+M6E,York,Caledonia-Fairbanks
+M1G,Scarborough,Woburn
+M4G,East York,Leaside
+M5G,Downtown Toronto,Bay Street
+M1H,Scarborough,Cedarbrae
+M2H,North York,Hillcrest Village
+M3H,North York,Bathurst Manor
+M3H,North York,Wilson Heights
+M3H,North York,Downsview
+M4H,East York,Thorncliffe Park
+M5H,Downtown Toronto,Richmond
+M5H,Downtown Toronto,King
+M6H,Dufferin,Dovercourt Village
+M1J,Scarborough,Scarborough Village
+M2J,North York,Henry Farm
+M3J,North York,Northwood Park
+M3J,North York,York University
+M4J,East York,The Danforth
+M5J,Downtown Toronto,Harbourfront
+M5J,Downtown Toronto,Union Station
+M5J,Downtown Toronto,Toronto Islands
+M6J,Little Portugal,Trinity
+M1K,Scarborough,Kennedy Park
+M1K,Scarborough,Ionview
+M1K,Scarborough,Birchmount Park
+M2K,North York,Bayview Village
+M3K,North York,Downsview
+M3K,North York,CFB Toronto
+M4K,The Danforth,Riverdale
+M5K,Downtown Toronto,Toronto Dominion Centre
+M5K,Downtown Toronto,Design Exchange
+M6K,Brockton,Parkdale Village
+M6K,Brockton,Exhibition Place
+M1L,Scarborough,Golden Mile
+M1L,Scarborough,Clairlea
+M1L,Scarborough,Oakridge
+M2L,North York,York Mills
+M3L,North York,Downsview
+M4L,India Bazaar,The Beaches
+M5L,Downtown Toronto,Commerce Court
+M5L,Downtown Toronto,Victoria Hotel
+M6L,North York,Maple Leaf Park
+M9L,North York,Humber Summit
+M1M,Scarborough,Cliffside
+M1M,Scarborough,Cliffcrest
+M1M,Scarborough,Scarborough Village
+M2M,North York,Newtonbrook
+M3M,North York,Downsview
+M5M,North York,Bedford Park
+M5M,North York,Lawrence Manor
+M6M,York,Mount Dennis
+M6M,York,Keelsdale and Silverthorn
+M9M,North York,Humberlea
+M9M,North York,Emery
+M1N,Scarborough,Birch Cliff
+M1N,Scarborough,Cliffside
+M2N,North York,Willowdale
+M3N,North York,Downsview
+M6N,York,Runnymede
+M6N,York,The Junction
+M9N,York,Weston
+M1P,Scarborough,Dorset Park
+M1P,Scarborough,Wexford Heights
+M1P,Scarborough,Scarborough Town Centre
+M2P,North York,York Mills
+M6P,High Park,The Junction
+M1R,Scarborough,Wexford
+M1R,Scarborough,Maryvale
+M2R,North York,Willowdale
+M5R,The Annex,North Midtown
+M5R,The Annex,Yorkville
+M6R,Parkdale,Roncesvalles
+M9R,Etobicoke,Kingsview Village
+M1S,Scarborough,Agincourt
+M5S,Downtown Toronto,University of Toronto
+M6S,Runnymede,Swansea
+M1T,Scarborough,Tam O'Shanter
+M1T,Scarborough,Sullivan
+M4T,Moore Park,Summerhill
+M5T,Downtown Toronto,Kensington Market
+M5T,Downtown Toronto,Chinatown
+M5T,Downtown Toronto,Grange Park
+M1V,Scarborough,Milliken
+M1V,Scarborough,Agincourt North
+M1V,Scarborough,Steeles
+M1V,Scarborough,L'Amoreaux
+M4V,Summerhill,Rathnelly
+M4V,Summerhill,South Hill
+M4V,Summerhill,Forest Hill
+M4V,Summerhill,Deer Park
+M5V,Downtown Toronto,CN Tower
+M5V,Downtown Toronto,King and Spadina
+M5V,Downtown Toronto,Railway Lands
+M5V,Downtown Toronto,Harbourfront
+M5V,Downtown Toronto,South Niagara
+M5V,Downtown Toronto,Island airport
+M8V,Etobicoke,New Toronto
+M8V,Etobicoke,Mimico
+M9V,Etobicoke,South Steeles
+M9V,Etobicoke,Silverstone
+M9V,Etobicoke,Jamestown
+M9V,Etobicoke,Mount Olive
+M9V,Etobicoke,Beaumond Heights
+M9V,Etobicoke,Thistletown
+M1W,Scarborough,Steeles
+M1W,Scarborough,L'Amoreaux
+M4W,Downtown Toronto,Rosedale
+M8W,Etobicoke,Alderwood
+M8W,Etobicoke,Long Branch
+M9W,Etobicoke,Clairville
+M9W,Etobicoke,Humberwood
+M9W,Etobicoke,Woodbine Downs
+M9W,Etobicoke,Rexdale
+M9W,Etobicoke,Elms
+M1X,Scarborough,Upper Rouge
+M4X,Downtown Toronto,St. James Town
+M4X,Downtown Toronto,Cabbagetown
+M5X,Downtown Toronto,First Canadian Place
+M5X,Downtown Toronto,Underground city
+M8X,Etobicoke,The Kingsway
+M8X,Etobicoke,Old Mill
+M4Y,Downtown Toronto,Church and Wellesley
+M8Y,Etobicoke,Old Mill
+M8Y,Etobicoke,Sunnylea
+M8Y,Etobicoke,Humber Bay
+M8Y,Etobicoke,Mimico
+M8Y,Etobicoke,The Queensway
+M8Z,Etobicoke,Mimico
+M8Z,Etobicoke,The Queensway
